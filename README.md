@@ -1,4 +1,4 @@
-# ReactJs-Tailwind-Reponsive-Navbar
+# Tailwind Responsive Navbar
 
 A responsive landing page in React and Tailwind, built around a navigation bar that collapses into a mobile menu.
 
